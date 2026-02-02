@@ -19,7 +19,3 @@ traditional keyword matching.
 This repository shares only the query output for demonstration purposes.
 No cloud resources, credentials, or proprietary configurations are included.
 
-## Reference
-This work is based on the Google Cloud Skills Boost lab:  
-Configure Vector Search in AlloyDB  
-https://www.cloudskillsboost.google/course_templates/xxx
